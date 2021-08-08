@@ -1,2 +1,2 @@
 # Sudoku-solver
-# very usefull
+# very useful
